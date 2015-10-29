@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\Project1\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\Project1\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-3d92950bb357bbf96c712102d830001c086f2254.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-fb3ee208add5fd1ab1075605b4970ffbdf6609c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\Project1\PopularMovies\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-2fd7b0501afbfde69884a9a9cf9e528272c6c794.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\PopularMovies\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-b17d547112f92c16b974df5c0fd4bdefd7defc91.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\Project1\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\Project1\PopularMovies\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-08c6c1fd7cae763e7c04b19d42f74374b22dc2f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-bd339535d5c3d573fd2bb6ae2e94db04f2eaed51.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\PopularMovies\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-3dee704d740b4017429dd625fd509fd3a0e271ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\Project1\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\Project1\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-e2fe5dc6e96a3b738066a8d004fc7428d4817edd.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\Project1\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\Project1\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-c2bfbcf2c5f491e5395fddcb7af8b2d0170eb41d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nitus\AndroidStudioProjects\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\nitus\AndroidStudioProjects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-f9ab22eb9ac017ba4dc7643c1337a476525404d0.jar" />
+    </item>
+
+</items>
