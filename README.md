@@ -32,7 +32,7 @@ App conforms to common standards found in the Android Nanodegree General Project
 ####Optional Components
   There are no optional components for stage 1.
   
-  #Execution Instruction
+  #Execution Instructions
 Requires: Android Studio v1.5.0+
 
 Dependencies:
@@ -86,4 +86,3 @@ If the project won't build, here are a few steps to try:
 1.  Shelve any changes:  VCS -> Shelve Changes
 2.  Sync the gradle files:  Tools -> Android -> Sync Project with Gradle Files
 3.  Clean the project build:  Build -> Clean project
-
